@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 噢！真不巧，网页走丢了
 
 You can use the [editor on GitHub](https://github.com/Walker-King-Z/Under-Construction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
